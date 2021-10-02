@@ -1,12 +1,12 @@
-# Description
+## Description
 
   The program puts the random playing card showing it's value and suit.
 
-# Language
+## Language
 
   Ruby
 
-# Usage
+## Usage
 
   Copy program to local directory. Run by entering
   ```
@@ -14,15 +14,15 @@
   ```
  in terminal window.
 _____________________________________________________________________________________
-# Описание
+## Описание
 
   Программа выводит в консоль случайную карту случайной масти.
 
-# Язык программирования
+## Язык программирования
 
   Ruby
 
-# Как пользоваться
+## Как пользоваться
 
   Сохраните программу на локольном диске ПК. Запустите программу командой
   ```
